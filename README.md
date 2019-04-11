@@ -5,3 +5,9 @@ based on [Chapter 3](https://infx511.github.io/git-basics.html)
 of the [Introduction to Programming for Information and Data Science](https://infx511.github.io/) course book. 
 
 Solutions can be found in the `solution` branch.
+
+Hello
+
+Goodbye
+Klaus Hargreeves
+Alice down the rabbit hole
